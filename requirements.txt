@@ -3,4 +3,3 @@ yfinance
 plotly.express
 alpha_vantage
 stocknews
-beautifulsoup
